@@ -2,39 +2,6 @@
 ## **说明** 
 本页面展示个人的知识体系总结，详情请查看博客 [http://crazyandcoder.work/](http://crazyandcoder.work/)
 
-## 公众号-码农的小世界
-### 引言
-工作一段时间一般都会出现一个瓶颈，这个时候学习的效率就会大打折扣，如果找不到好的方式，花的时间就会很长，然而进步的空间却很小。那么好的方式是什么呢？答案就是知识体系的思维导图。
-
-构建自己的知识体系尤为重要，每个人都应该构建自己的知识体系，那么如何构建自己的知识体系呢？对于我来说，我是做 Android 开发的，从毕业到现在，大概五年多的时间，小公司呆过，大公司也呆过，自己独立开发过产品，同时也跟大团队一起开发过。因此基本上能经历的都会经历过，在这几年的开发时间里，我基本都会有学习总结的习惯，有的是工作上用到的，有的是平常想到的 idea ，我都会总结下来，然后抽空整理一下，写成博客。
- 
- 这几天一直在准备码农的小世界构成大纲，前天后后大概花了四天时间来完成大纲思维导图。今天我就将它分享出来，欢迎大伙一起学习。
- 
-### 总纲
- ![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTgyYzM3Zjg5?x-oss-process=image/format,png)
- 码农小世界主要由以上几大部分组成，基础部分，语言部分，还有其他方面的内容，不管工作还是生活都会涉及到，由于我是做 Android 开发的，因此主要会涉及 Android 开发的内容。接下来，我们就依次展开各个部分的详细大纲进行描述：
-
-### 计算机基础
-在计算机基础部分中，最重要的当然属于数据结构与算法，这部分在我们实际的工作中，用到的比较多，因此本公众号会着重总结所用到的各种数据结构以及算法。
-
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTg0NDNmNWJl?x-oss-process=image/format,png)
- 
-### 编程语言
-由于 Android 开发主要使用 Java 语言，因此对于 Java 的学习显得尤为重要，因此本公众号也会着重学习 Java 各方面的知识点，对于 Android 开发，Google 目前也主推 kotlin ，因此也会涉及到 kotlin 相关的内容。对于跨平台开发的内容，RN 和 Flutter 我们也会涉及到的。
- 
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTgzYzA1NmEy?x-oss-process=image/format,png)
-
-### Android 
-接下来就是我们的重头戏 Android 部分的知识点，Android 部分的知识点多而且杂，因此做一个学习大纲很重要，将重要的知识点都以大纲的形式列出来，这对于我们学习 Android 开发帮助很大。
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTg0MTE4YTMw?x-oss-process=image/format,png)
-### 结尾
-对于其他部分的内容，我将准备部分涉及到，作为平常学习的润滑剂，主要的还是上面的三大部分，如果能将上面三大部分通学一遍，从入门到高级应该只是时间的问题。接来下的文章我们会分篇将对以上部分的大纲进行详细的记录学习总结。
-
-> **关注公众号后台回复 “思维导图” 即可获取本文大纲源文件**
-
-![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTg0NWMzM2Q2?x-oss-process=image/format,png)
-
- 
 ## **知识体系构建**
 ### **Android**
 
@@ -94,3 +61,38 @@
 
 ### **公众号**
  1. [码农小世界Android学习大纲思维导图](https://github.com/crazyandcoder/blog_backups/blob/master/articles/%E7%A0%81%E5%86%9C%E5%B0%8F%E4%B8%96%E7%95%8CAndroid%E5%AD%A6%E4%B9%A0%E5%A4%A7%E7%BA%B2%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.md)
+
+## 公众号-码农的小世界
+### 引言
+工作一段时间一般都会出现一个瓶颈，这个时候学习的效率就会大打折扣，如果找不到好的方式，花的时间就会很长，然而进步的空间却很小。那么好的方式是什么呢？答案就是知识体系的思维导图。
+
+构建自己的知识体系尤为重要，每个人都应该构建自己的知识体系，那么如何构建自己的知识体系呢？对于我来说，我是做 Android 开发的，从毕业到现在，大概五年多的时间，小公司呆过，大公司也呆过，自己独立开发过产品，同时也跟大团队一起开发过。因此基本上能经历的都会经历过，在这几年的开发时间里，我基本都会有学习总结的习惯，有的是工作上用到的，有的是平常想到的 idea ，我都会总结下来，然后抽空整理一下，写成博客。
+ 
+ 这几天一直在准备码农的小世界构成大纲，前天后后大概花了四天时间来完成大纲思维导图。今天我就将它分享出来，欢迎大伙一起学习。
+ 
+### 总纲
+ ![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTgyYzM3Zjg5?x-oss-process=image/format,png)
+ 码农小世界主要由以上几大部分组成，基础部分，语言部分，还有其他方面的内容，不管工作还是生活都会涉及到，由于我是做 Android 开发的，因此主要会涉及 Android 开发的内容。接下来，我们就依次展开各个部分的详细大纲进行描述：
+
+### 计算机基础
+在计算机基础部分中，最重要的当然属于数据结构与算法，这部分在我们实际的工作中，用到的比较多，因此本公众号会着重总结所用到的各种数据结构以及算法。
+
+![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTg0NDNmNWJl?x-oss-process=image/format,png)
+ 
+### 编程语言
+由于 Android 开发主要使用 Java 语言，因此对于 Java 的学习显得尤为重要，因此本公众号也会着重学习 Java 各方面的知识点，对于 Android 开发，Google 目前也主推 kotlin ，因此也会涉及到 kotlin 相关的内容。对于跨平台开发的内容，RN 和 Flutter 我们也会涉及到的。
+ 
+![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTgzYzA1NmEy?x-oss-process=image/format,png)
+
+### Android 
+接下来就是我们的重头戏 Android 部分的知识点，Android 部分的知识点多而且杂，因此做一个学习大纲很重要，将重要的知识点都以大纲的形式列出来，这对于我们学习 Android 开发帮助很大。
+![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTg0MTE4YTMw?x-oss-process=image/format,png)
+### 结尾
+对于其他部分的内容，我将准备部分涉及到，作为平常学习的润滑剂，主要的还是上面的三大部分，如果能将上面三大部分通学一遍，从入门到高级应该只是时间的问题。接来下的文章我们会分篇将对以上部分的大纲进行详细的记录学习总结。
+
+> **关注公众号后台回复 “思维导图” 即可获取本文大纲源文件**
+
+![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTg0NWMzM2Q2?x-oss-process=image/format,png)
+
+ 
+
