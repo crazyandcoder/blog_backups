@@ -3,6 +3,13 @@
 本页面展示个人的知识体系总结，详情请查看博客 [http://crazyandcoder.work/](http://crazyandcoder.work/)
 
 ## **知识体系构建**
+
+
+
+**开源从0到1**
+
+
+
 ### **Android**
 
  1. [Android中关于Context的三言两语](https://github.com/crazyandcoder/blog_backups/blob/master/articles/Android%E4%B8%AD%E5%85%B3%E4%BA%8EContext%E7%9A%84%E4%B8%89%E8%A8%80%E4%B8%A4%E8%AF%AD.md)
@@ -45,7 +52,7 @@
 
  1. [RN实现仿余额宝余额数字翻滚动画特效](https://github.com/crazyandcoder/blog_backups/blob/master/articles/RN%E5%AE%9E%E7%8E%B0%E4%BB%BF%E4%BD%99%E9%A2%9D%E5%AE%9D%E4%BD%99%E9%A2%9D%E6%95%B0%E5%AD%97%E7%BF%BB%E6%BB%9A%E5%8A%A8%E7%94%BB%E7%89%B9%E6%95%88.md)
  2. [ReactNative-问题总结记录](https://github.com/crazyandcoder/blog_backups/blob/master/articles/ReactNative-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93%E8%AE%B0%E5%BD%95.md)
- 
+
 
 ### **Git**
 
@@ -67,9 +74,9 @@
 工作一段时间一般都会出现一个瓶颈，这个时候学习的效率就会大打折扣，如果找不到好的方式，花的时间就会很长，然而进步的空间却很小。那么好的方式是什么呢？答案就是知识体系的思维导图。
 
 构建自己的知识体系尤为重要，每个人都应该构建自己的知识体系，那么如何构建自己的知识体系呢？对于我来说，我是做 Android 开发的，从毕业到现在，大概五年多的时间，小公司呆过，大公司也呆过，自己独立开发过产品，同时也跟大团队一起开发过。因此基本上能经历的都会经历过，在这几年的开发时间里，我基本都会有学习总结的习惯，有的是工作上用到的，有的是平常想到的 idea ，我都会总结下来，然后抽空整理一下，写成博客。
- 
+
  这几天一直在准备码农的小世界构成大纲，前天后后大概花了四天时间来完成大纲思维导图。今天我就将它分享出来，欢迎大伙一起学习。
- 
+
 ### 总纲
  ![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTgyYzM3Zjg5?x-oss-process=image/format,png)
  码农小世界主要由以上几大部分组成，基础部分，语言部分，还有其他方面的内容，不管工作还是生活都会涉及到，由于我是做 Android 开发的，因此主要会涉及 Android 开发的内容。接下来，我们就依次展开各个部分的详细大纲进行描述：
@@ -78,10 +85,10 @@
 在计算机基础部分中，最重要的当然属于数据结构与算法，这部分在我们实际的工作中，用到的比较多，因此本公众号会着重总结所用到的各种数据结构以及算法。
 
 ![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTg0NDNmNWJl?x-oss-process=image/format,png)
- 
+
 ### 编程语言
 由于 Android 开发主要使用 Java 语言，因此对于 Java 的学习显得尤为重要，因此本公众号也会着重学习 Java 各方面的知识点，对于 Android 开发，Google 目前也主推 kotlin ，因此也会涉及到 kotlin 相关的内容。对于跨平台开发的内容，RN 和 Flutter 我们也会涉及到的。
- 
+
 ![在这里插入图片描述](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAxOS8xMC8xNS8xNmRjZjYzMTgzYzA1NmEy?x-oss-process=image/format,png)
 
 ### Android 
