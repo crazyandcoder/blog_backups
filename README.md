@@ -70,6 +70,7 @@
  2. [2017年4月份杭州找工作经历](https://github.com/crazyandcoder/blog_backups/blob/master/articles/2017%E5%B9%B44%E6%9C%88%E4%BB%BD%E6%9D%AD%E5%B7%9E%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86.md)
  3. [2017年4月份杭州面试题](https://github.com/crazyandcoder/blog_backups/blob/master/articles/2017%E5%B9%B44%E6%9C%88%E4%BB%BD%E6%9D%AD%E5%B7%9E%E9%9D%A2%E8%AF%95%E9%A2%98.md)
  4. [2018-06-Android上海面试题](https://github.com/crazyandcoder/blog_backups/blob/master/articles/2018-06-Android%E4%B8%8A%E6%B5%B7%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+ 5. [2020年疫情下的Android跳槽之路](https://github.com/crazyandcoder/blog_backups/blob/master/articles/2020%E5%B9%B4%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84Android%E8%B7%B3%E6%A7%BD%E4%B9%8B%E8%B7%AF.md)
 
 ### **公众号**
  1. [码农小世界Android学习大纲思维导图](https://github.com/crazyandcoder/blog_backups/blob/master/articles/%E7%A0%81%E5%86%9C%E5%B0%8F%E4%B8%96%E7%95%8CAndroid%E5%AD%A6%E4%B9%A0%E5%A4%A7%E7%BA%B2%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.md)
