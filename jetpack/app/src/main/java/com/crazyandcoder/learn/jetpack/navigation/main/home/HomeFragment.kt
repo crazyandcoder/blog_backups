@@ -1,4 +1,4 @@
-package com.crazyandcoder.learn.jetpack.navigation.ui.home
+package com.crazyandcoder.learn.jetpack.navigation.main.home
 
 import android.os.Bundle
 import android.view.LayoutInflater

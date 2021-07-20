@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.crazyandcoder.learn.jetpack.navigation.ui.home.HomeFragment"
+        android:name="com.crazyandcoder.learn.jetpack.navigation.main.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.crazyandcoder.learn.jetpack.navigation.ui.dashboard.DashboardFragment"
+        android:name="com.crazyandcoder.learn.jetpack.navigation.main.dashboard.DashboardFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.crazyandcoder.learn.jetpack.navigation.ui.notifications.NotificationsFragment"
+        android:name="com.crazyandcoder.learn.jetpack.navigation.main.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
 </navigation>

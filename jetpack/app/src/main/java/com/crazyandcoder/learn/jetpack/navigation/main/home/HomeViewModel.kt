@@ -1,13 +1,13 @@
-package com.crazyandcoder.learn.jetpack.navigation.ui.notifications
+package com.crazyandcoder.learn.jetpack.navigation.main.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class NotificationsViewModel : ViewModel() {
+class HomeViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is notifications Fragment"
+        value = "This is home Fragment"
     }
     val text: LiveData<String> = _text
 }

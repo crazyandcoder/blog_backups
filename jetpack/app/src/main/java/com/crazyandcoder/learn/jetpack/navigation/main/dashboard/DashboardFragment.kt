@@ -1,4 +1,4 @@
-package com.crazyandcoder.learn.jetpack.navigation.ui.dashboard
+package com.crazyandcoder.learn.jetpack.navigation.main.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater

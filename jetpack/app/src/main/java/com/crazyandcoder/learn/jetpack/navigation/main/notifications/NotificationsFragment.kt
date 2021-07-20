@@ -1,4 +1,4 @@
-package com.crazyandcoder.learn.jetpack.navigation.ui.notifications
+package com.crazyandcoder.learn.jetpack.navigation.main.notifications
 
 import android.os.Bundle
 import android.view.LayoutInflater

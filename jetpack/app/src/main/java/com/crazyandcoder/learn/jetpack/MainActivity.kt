@@ -3,7 +3,7 @@ package com.crazyandcoder.learn.jetpack
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.crazyandcoder.learn.jetpack.navigation.BottomNavigationActivity
+import com.crazyandcoder.learn.jetpack.navigation.main.BottomNavigationActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

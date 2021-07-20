@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".navigation.BottomNavigationActivity"
+            android:name=".navigation.main.BottomNavigationActivity"
             android:label="@string/title_activity_bottom_navigation"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
