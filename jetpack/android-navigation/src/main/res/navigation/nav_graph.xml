@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.crazyandcoder.learn.jetpack.navigation.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_mainFragment_to_viewBalanceFragment"
+            app:destination="@id/viewBalanceFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_viewTransationsFragment"
+            app:destination="@id/viewTransationsFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_chooseRecipincleFragment"
+            app:destination="@id/chooseRecipincleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewBalanceFragment"
+        android:name="com.crazyandcoder.learn.jetpack.navigation.ViewBalanceFragment"
+        android:label="fragment_view_balance"
+        tools:layout="@layout/fragment_view_balance" />
+    <fragment
+        android:id="@+id/viewTransationsFragment"
+        android:name="com.crazyandcoder.learn.jetpack.navigation.ViewTransationsFragment"
+        android:label="fragment_view_transations"
+        tools:layout="@layout/fragment_view_transations" />
+    <fragment
+        android:id="@+id/chooseRecipincleFragment"
+        android:name="com.crazyandcoder.learn.jetpack.navigation.ChooseRecipincleFragment"
+        android:label="fragment_choose_recipincle"
+        tools:layout="@layout/fragment_choose_recipincle" >
+        <action
+            android:id="@+id/action_chooseRecipincleFragment_to_specifyAmountFragment"
+            app:destination="@id/specifyAmountFragment" />
+        <argument
+            android:name="from"
+            app:argType="string"
+            android:defaultValue="defaultValue" />
+    </fragment>
+    <fragment
+        android:id="@+id/specifyAmountFragment"
+        android:name="com.crazyandcoder.learn.jetpack.navigation.SpecifyAmountFragment"
+        android:label="fragment_specify_amount"
+        tools:layout="@layout/fragment_specify_amount" >
+        <action
+            android:id="@+id/action_specifyAmountFragment_to_confirmationFragment"
+            app:destination="@id/confirmationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/confirmationFragment"
+        android:name="com.crazyandcoder.learn.jetpack.navigation.ConfirmationFragment"
+        android:label="fragment_confirmation"
+        tools:layout="@layout/fragment_confirmation" />
+</navigation>

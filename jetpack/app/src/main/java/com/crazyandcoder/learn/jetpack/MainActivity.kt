@@ -3,7 +3,7 @@ package com.crazyandcoder.learn.jetpack
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.crazyandcoder.learn.jetpack.navigation.main.BottomNavigationActivity
+import com.crazyandcoder.learn.jetpack.navigation.NavigationMainActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         //navigation
         navigationTv.setOnClickListener {
-            startActivity(Intent(this@MainActivity, BottomNavigationActivity::class.java))
+            startActivity(Intent(this@MainActivity, NavigationMainActivity::class.java))
         }
 
     }

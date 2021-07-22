@@ -1,2 +1,3 @@
+include ':android-navigation'
 include ':app'
 rootProject.name = "learn-jetpack"
